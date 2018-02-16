@@ -1,5 +1,5 @@
-# V2Ray Heroku
-Heroku deployable V2Ray :busts_in_silhouette:
+# V2Ray Heroku [![Travis Build Status](https://travis-ci.org/JDsnyke/V2Ray-Heroku.svg?branch=core-3.5)](https://travis-ci.org/JDsnyke/V2Ray-Heroku)
+Heroku deployable V2Ray proxy :busts_in_silhouette:
 
 ## Information
 
@@ -17,7 +17,7 @@ Original Readme - [Here](https://github.com/JDsnyke/V2Ray-Heroku/blob/core-3.5/O
 
    [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/JDsnyke/Heroku-Go-Get-Started)
 
-3. Set app name and region
+3. Set ```app name``` and ```region```
 
 4. Leave all other Config Variables except ```UDID``` the same
 
@@ -35,7 +35,25 @@ Original Readme - [Here](https://github.com/JDsnyke/V2Ray-Heroku/blob/core-3.5/O
 
 ![Credit to https://github.com/onplus](https://user-images.githubusercontent.com/31188782/33354036-c14d920a-d4eb-11e7-99b4-d7d8816bbef6.png)
 
-4. 
+4. Click the Cog Icon next to the tick box to access the repo's Travis settings
+
+5. Create the given 'Enviromental Variables'
+
+   * HEROKU_APIKEY - get your specific key [Here](https://dashboard.heroku.com/account)
+   
+   * HEROKU_APPNAME - heroku app name (without .herokuapp.com)
+   
+   * HEROKU_EMAIL - email address you used for your heroku account
+   
+![Credit to https://github.com/onplus](https://user-images.githubusercontent.com/31188782/33432133-ca7ecf7a-d611-11e7-96de-8269712b40f1.png)   
+
+![Credit to https://github.com/onplus](https://user-images.githubusercontent.com/31188782/33354723-2e10d2e6-d4ef-11e7-8d6c-70be5b5eee2a.png)
+
+6. Return to Github and manually edit your Readme file for the changes to register on Travis
+
+   * You can also try restarting the build if you want
+   
+### Part 03
 
 ## License
 
