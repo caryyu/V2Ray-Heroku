@@ -55,6 +55,10 @@ Original Readme - [Here](https://github.com/JDsnyke/V2Ray-Heroku/blob/core-3.5/O
    
 ### Part 03
 
+## Credit
+
+Complete credit to [Onplus](https://github.com/onplus) and his [Repo](https://github.com/onplus/v2hero). Thank you for your hard work!
+
 ## License
 
 Uses the [MIT](https://github.com/JDsnyke/V2Ray-Heroku/blob/core-3.5/LICENSE) license.
