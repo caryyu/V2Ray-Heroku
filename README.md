@@ -3,17 +3,17 @@ Heroku deployable V2Ray proxy :busts_in_silhouette:
 
 ## Table of Contents
 
-[Information](#information)
+:mortar_board: [Information](#information)
 
-[Setup](#setup)
+:electric_plug: [Setup](#setup)
 
 - [Part 01](#part-01)
 - [Part 02](#part-02)
 - [Part 03](#part-03)
 
-[Credit](#credit)
+:tophat: [Credit](#credit)
 
-[License](#license)
+:scroll: [License](#license)
 
 ## Information
 
