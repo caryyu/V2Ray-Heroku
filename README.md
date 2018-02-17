@@ -1,6 +1,24 @@
 # V2Ray Heroku [![Travis Build Status](https://travis-ci.org/JDsnyke/V2Ray-Heroku.svg?branch=core-3.5)](https://travis-ci.org/JDsnyke/V2Ray-Heroku)
 Heroku deployable V2Ray proxy :busts_in_silhouette:
 
+---
+
+## Table of Contents
+
+[Information](#information)
+
+[Setup](#setup)
+
+- [Part 01](#part-01)
+- [Part 02](#part-02)
+- [Part 03](#part-03)
+
+[Credit](#credit)
+
+[License](#license)
+
+---
+
 ## Information
 
 Original Repo - [Here](https://github.com/onplus/v2hero)
