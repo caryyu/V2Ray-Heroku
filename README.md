@@ -5,11 +5,7 @@ Heroku deployable V2Ray proxy :busts_in_silhouette:
 
 :mortar_board: [Information](#information)
 
-:electric_plug: [Setup](#setup)
-
-- [Part 01](#part-01)
-- [Part 02](#part-02)
-- [Part 03](#part-03)
+:electric_plug: [Setup](#setup) - [Part 01](#part-01) , [Part 02](#part-02) , [Part 03](#part-03)
 
 :tophat: [Credit](#credit)
 
