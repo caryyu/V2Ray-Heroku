@@ -1,4 +1,4 @@
-# V2Ray Heroku [![Travis Build Status](https://travis-ci.org/JDsnyke/V2Ray-Heroku.svg?branch=core-3.5)](https://travis-ci.org/JDsnyke/V2Ray-Heroku)
+# V2Ray Heroku [![Travis Build Status](https://travis-ci.org/JDsnyke/V2Ray-Heroku.svg?branch=core-3.5)](https://travis-ci.org/JDsnyke/V2Ray-Heroku) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a5c327f3daa14e07935fd646f97361f7)](https://www.codacy.com/app/Shurikan117/V2Ray-Heroku?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JDsnyke/V2Ray-Heroku&amp;utm_campaign=Badge_Grade) ![Repo Size](https://reposs.herokuapp.com/?path=JDsnyke/V2Ray-Heroku) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Heroku deployable V2Ray proxy :busts_in_silhouette:
 
 ## Table of Contents
