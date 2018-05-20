@@ -1,6 +1,6 @@
 # V2Ray Heroku
 
-[![Travis Build Status](https://travis-ci.org/JDsnyke/V2Ray-Heroku.svg?branch=core-3.5)](https://travis-ci.org/JDsnyke/V2Ray-Heroku) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a5c327f3daa14e07935fd646f97361f7)](https://www.codacy.com/app/Shurikan117/V2Ray-Heroku?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JDsnyke/V2Ray-Heroku&amp;utm_campaign=Badge_Grade) ![Repo Size](https://reposs.herokuapp.com/?path=JDsnyke/V2Ray-Heroku) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[GitHub last commit](https://img.shields.io/github/last-commit/JDsnyke/V2Ray-Heroku.svg) [![Travis Build Status](https://travis-ci.org/JDsnyke/V2Ray-Heroku.svg?branch=core-3.5)](https://travis-ci.org/JDsnyke/V2Ray-Heroku) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a5c327f3daa14e07935fd646f97361f7)](https://www.codacy.com/app/Shurikan117/V2Ray-Heroku?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JDsnyke/V2Ray-Heroku&amp;utm_campaign=Badge_Grade) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JDsnyke/V2Ray-Heroku.svg) ![license](https://img.shields.io/github/license/JDsnyke/V2Ray-Heroku.svg)
 
 Heroku deployable V2Ray proxy :busts_in_silhouette:
 
@@ -67,6 +67,8 @@ Original Readme - [Here](https://github.com/JDsnyke/V2Ray-Heroku/blob/core-3.5/O
    * You can also try restarting the build if you want
    
 ### Part 03
+
+* [ ] Needs to be completed
 
 ## Credit
 
